@@ -1,0 +1,9 @@
+{
+  "name": "sample-cloud-storage",
+  "version": "0.0.1",
+  "dependencies": {
+    "googleapis": "^36.0.0",
+    "@google-cloud/bigquery": "^2.0.3",
+    "@google-cloud/storage": "^2.0.0"
+  }
+}

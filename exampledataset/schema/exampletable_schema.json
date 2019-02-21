@@ -1,0 +1,49 @@
+{
+  "BigQuery Schema": [
+    {
+      "description": "ユーザーID",
+      "name": "id",
+      "type": "INT64"
+    },
+    {
+      "description": "名前",
+      "name": "name",
+      "type": "STRING"
+    },
+    {
+      "description": "ふりがな",
+      "name": "ruby",
+      "type": "STRING"
+    },
+    {
+      "description": "メールアドレス",
+      "name": "email",
+      "type": "STRING"
+    },
+    {
+      "description": "性別",
+      "name": "sex",
+      "type": "STRING"
+    },
+    {
+      "description": "年齢",
+      "name": "age",
+      "type": "INT64"
+    },
+    {
+      "description": "誕生日",
+      "name": "birthday",
+      "type": "DATE"
+    },
+    {
+      "description": "都道府県",
+      "name": "prefectures",
+      "type": "STRING"
+    },
+    {
+      "description": "電話番号",
+      "name": "tel",
+      "type": "STRING"
+    }
+  ]
+}
